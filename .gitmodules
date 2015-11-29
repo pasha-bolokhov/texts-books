@@ -1,0 +1,6 @@
+[submodule "Cosmology"]
+	path = Cosmology
+	url = git@github.com:pasha-bolokhov/books-Cosmology
+[submodule "SymmetryGroups"]
+	path = SymmetryGroups
+	url = git@github.com:pasha-bolokhov/books-SymmetryGroups.git
